@@ -66,7 +66,7 @@ Used to match resume skills with job requirements.
 ## ▶️ How to Run the Project
 
 
-### 🔙 Backend Setup
+### Backend Setup
 
 ```bash
 cd backend
@@ -74,7 +74,7 @@ pip install -r requirements.txt
 python app.py
 ```
 
-### 🔜 Frontend Setup
+### Frontend Setup
 
 ```bash
 cd frontend
